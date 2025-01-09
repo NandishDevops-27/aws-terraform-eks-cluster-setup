@@ -1,3 +1,5 @@
+Using this repo Written Terraform scripts to provision an EKS cluster
+
 # Terraform-EKS
 
 Navigate to the project directory in your local terminal
